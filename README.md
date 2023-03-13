@@ -1,5 +1,5 @@
 # Homework-18
-NoSQL Challenge: Social Network API
+Social Network API
 
 # TITLE
 
@@ -13,7 +13,7 @@ NoSQL Challenge: Social Network API
 - [QUESTIONS](#questions)
 
 # INSTALLATION
-T
+
 # LINK
 
 GitHub Repository: h
