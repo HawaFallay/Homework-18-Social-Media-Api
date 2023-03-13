@@ -1,9 +1,7 @@
 # Homework-18
 NoSQL Challenge: Social Network API
 
-# Note Taker Starter Code
 # TITLE
-Homework 11- Miniature Eureka- Note Taking App
 
 # DESCRPIPTION
  
