@@ -1,11 +1,12 @@
 # Homework-18
-Social Network API
+NoSQL Challenge: Social Network API
 
 # TITLE
+Social Network API
 
 # DESCRPIPTION
  
- # TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 - [INSTALLATION](#installation)
 - [LINK](#link)
@@ -14,7 +15,11 @@ Social Network API
 
 # INSTALLATION
 
+npm i mongoose
+npm i express
+
 # LINK
+https://github.com/HawaFallay/Homework-18
 
 GitHub Repository: h
 # SCREENSHOTS
