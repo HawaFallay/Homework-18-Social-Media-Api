@@ -1,6 +1,29 @@
 {
   "dependencies": {
     "express": "^4.18.2",
+    "moment": "^2.29.4",
     "mongoose": "^7.0.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "homework-18",
+  "description": "NoSQL Challenge: Social Network API",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HawaFallay/Homework-18.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HawaFallay/Homework-18/issues"
+  },
+  "homepage": "https://github.com/HawaFallay/Homework-18#readme"
 }
